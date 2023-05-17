@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DwaineBrannon
-- 👀 I’m interested in ... LADY GAGA
-- 🌱 I’m currently learning ... BS in CS
+- 👀 I’m interested in ... Music Theory/Production, Video Games, Computational Graphics
+- 🌱 I’m currently learning ... Computational Graphics and Game Development
 - 📫 How to reach me ... dwainebrannon@gmail.com
 
 <!---
