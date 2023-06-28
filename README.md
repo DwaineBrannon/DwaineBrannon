@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DwaineBrannon
 - 👀 I’m interested in ... Music Theory/Production, Video Games, Computational Graphics
-- 🌱 I’m currently learning ... Computational Graphics and Game Development
+- 🌱 I’m currently learning ... Full Stack Development, and Design of Virtual Game Environments
 - 📫 How to reach me ... dwainebrannon@gmail.com
 
 <!---
